@@ -1,0 +1,32 @@
+[
+  {
+    "guid": {
+      "a": "7eec9b54-f87f-1901-c78f-d73082af6f84",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Creeper_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7285468846192885762",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "3c196f60-bd9a-02a2-7945-9ddf6e866424",
+      "e9334ad1-9485-259d-53a5-3cff769c755e",
+      "64a3bea7-cda8-4cc1-d982-042c3ae1315f",
+      "1e80eee8-e5d9-b922-1fe7-c28ce836df0f",
+      "558b3cc9-ccf9-df5f-38c6-c003cdbc54e0",
+      "0b68e8d2-f214-e8a6-0c03-1efc9029928f"
+    ],
+    "animazGUIDs": []
+  }
+]
