@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "d19c10ee-0b13-2114-db59-6c61684c7ee2",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Creeper",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

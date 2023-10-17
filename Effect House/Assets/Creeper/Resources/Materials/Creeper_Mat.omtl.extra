@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "ffd5e0ec-fac4-a735-8942-49a309d97fc7",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Creeper_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7285468846192885762",
+    "skinObjGuid": "Guid(4766874610928792411, 3565525389029353389)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "45214b7e-1a77-2801-f6c8-0d65bc753771"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      }
+    ]
+  }
+]
